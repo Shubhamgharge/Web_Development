@@ -1,0 +1,16 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid blue;
+}
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    border: 2px solid orange;
+    
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
